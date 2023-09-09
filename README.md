@@ -18,7 +18,7 @@ A special thanks to our Academic Mentor, Dr. P. Getzi Jeba, for his invaluable g
 1. [Introduction](#introduction)
 2. [Folders Structure](#folders-structure)
 3. [Screenshots](#screenshots)
-4. [Interactive visualization](#interactive-analysis)
+4. [Interactive visualization](#Interactive-visualization)
 5. [Notebook](#notebook-code)
 6. [Getting Started](#getting-started)
 7. [Acknowledgments](#acknowledgments)
@@ -30,26 +30,13 @@ This repository contains the data analysis results of the Intel Grand Challenge.
 
 ---
 
-## Folders Structure
-
-\`\`\`
-.
-├── data/                   # Raw and processed data
-├── notebooks/              # Jupyter notebooks
-├── screenshots/            # Screenshots of visualizations and important steps
-├── Interactive visualization/   # Interactive Dashboards and Web Apps
-└── README.md
-\`\`\`
-
----
-
 ## Screenshots
 
 The \`screenshots/\` folder contains visual snapshots of key visualizations and important steps in our analysis.
 
 ---
 
-## Interactive visualization
+## Interactive-visualization
 
 The \`Interactive visualization/\` folder contains interactive dashboards and web apps that enable users to explore the data in a hands-on manner.
 
