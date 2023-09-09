@@ -36,9 +36,9 @@ The \`screenshots/\` folder contains visual snapshots of key visualizations and 
 
 ---
 
-## Interactive-visualization
+## Interactive Visualization
 
-The \`Interactive visualization/\` folder contains interactive dashboards and web apps that enable users to explore the data in a hands-on manner.
+The \`Interactive-visualization/\` folder contains interactive dashboards and web apps that enable users to explore the data in a hands-on manner.
 
 ---
 
