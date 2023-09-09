@@ -64,8 +64,8 @@ The `notebooks/` folder contains the Jupyter notebooks which house all the code 
 To get started, clone the repository and navigate to the project directory. You can then open the Jupyter notebooks in the `notebooks/` folder to run the code.
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone <[repository_url>](https://github.com/ebin-alex/The-Elites-IGC.git)
+cd The-Elites-IGC.git
 jupyter notebook
 ```
 
